@@ -1,5 +1,5 @@
 student_name = "moazam"
-ag_no = 9343
+ag_no = 2024-ag-9343
 
 
 name_input = input("Student Name: ")
