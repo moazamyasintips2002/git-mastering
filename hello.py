@@ -1,5 +1,6 @@
-student_name = "moazam"
+student_name = "moazam yasin"
 ag_no = 2024-ag-9343
+
 
 
 name_input = input("Student Name: ")
@@ -7,7 +8,7 @@ ag_input = input("Enter Your Ag: ")
 class_input = input("Enter Your Class Name: ")
 
 if name_input == student_name:
-
+    
     print("Login Successful")
 else:
     print("Login Unsuccessful")
