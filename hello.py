@@ -1,5 +1,5 @@
 student_name = "moazam yasin"
-ag_no = 2024-ag-9343
+ag_no = 2024-9343
 
 
 
